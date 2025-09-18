@@ -1,8 +1,0 @@
-streamlit>=1.20
-pandas
-numpy
-plotly
-streamlit_plotly_events
-
-
-
